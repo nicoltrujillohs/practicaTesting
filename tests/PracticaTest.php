@@ -35,6 +35,7 @@ final class PracticaTest extends TestCase
                 'form_params' => [
                     'nombre' => 'Prueba Nombre',
                     'correo' => 'prueba@test.com',
+                    'contraseña' => 'pruebapassword',
                 ]
             ]);
 
